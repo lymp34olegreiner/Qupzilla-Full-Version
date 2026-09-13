@@ -239,4 +239,4 @@ This repository serves as the official landing page for QupZilla. The software i
 **Get the most recent version of QupZilla today!**
 
 ---
-**Last updated:** 2026-09-13 03:24:41 UTC
+**Last updated:** 2026-09-13 13:46:15 UTC
